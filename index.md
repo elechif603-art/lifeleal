@@ -15,7 +15,7 @@ layout: default
         
         {% for post in site.posts limit:10 %}
             <article class="post-preview">
-                <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | default: "Untitled Post" }}</a></h2>
                 <div class="post-meta">
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                     {% if post.author %}
@@ -23,11 +23,8 @@ layout: default
                     {% endif %}
                 </div>
 
-                {% if post.excerpt %}
-                    <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-                {% else %}
-                    <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
-                {% endif %}
+                {% assign summary = post.excerpt | default: post.content %}
+                <p class="post-excerpt">{{ summary | strip_html | truncatewords: 30 }}</p>
 
                 <a href="{{ post.url | relative_url }}" class="read-more">Read Full Article →</a>
             </article>

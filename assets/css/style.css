@@ -155,13 +155,22 @@ body {
     font-size: 1.8em;
 }
 
-.post-preview h2 a {
-    color: var(--text-color) !important;
+.post-preview h2 a,
+.post-title a {
+    color: #111 !important;
     text-decoration: none;
 }
 
-.post-preview h2 a:hover {
+.post-preview h2 a:hover,
+.post-title a:hover {
     color: var(--secondary-color);
+}
+
+.post-excerpt {
+    margin: 15px 0;
+    font-size: 1.05em;
+    line-height: 1.7;
+    color: #444 !important;
 }
 
 .post-meta {
