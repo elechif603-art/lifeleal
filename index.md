@@ -22,8 +22,14 @@ layout: default
                         <span class="post-author">By {{ post.author }}</span>
                     {% endif %}
                 </div>
-                <p class="post-excerpt">{{ post.excerpt }}</p>
-                <a href="{{ post.url }}" class="read-more">Read Full Article →</a>
+
+                {% if post.excerpt %}
+                    <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+                {% else %}
+                    <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
+                {% endif %}
+
+                <a href="{{ post.url | relative_url }}" class="read-more">Read Full Article →</a>
             </article>
         {% endfor %}
     </section>

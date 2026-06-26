@@ -92,10 +92,23 @@ body {
     flex-wrap: wrap;
 }
 
+.site-title {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+}
+
 .site-title h1 {
     font-size: 2.5em;
     margin: 0;
     color: white;
+}
+
+.site-logo {
+    width: 64px;
+    height: auto;
+    display: block;
+    border-radius: 12px;
 }
 
 .site-subtitle {

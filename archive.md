@@ -25,14 +25,21 @@ permalink: /archive/
             {% endif %}
 
             <li class="archive-item">
-                <span class="archive-date">{{ post.date | date: "%B %d, %Y" }}</span>
-                <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title }}</a>
-                {% if post.categories %}
-                    <span class="archive-category">
-                        {% for category in post.categories limit:1 %}
-                            <a href="{{ '/category/' | append: category | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ category }}</a>
-                        {% endfor %}
-                    </span>
+                <div class="archive-item-main">
+                    <span class="archive-date">{{ post.date | date: "%B %d, %Y" }}</span>
+                    <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title }}</a>
+                    {% if post.categories %}
+                        <span class="archive-category">
+                            {% for category in post.categories limit:1 %}
+                                <a href="{{ '/category/' | append: category | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ category }}</a>
+                            {% endfor %}
+                        </span>
+                    {% endif %}
+                </div>
+                {% if post.excerpt %}
+                    <p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                {% else %}
+                    <p class="archive-excerpt">{{ post.content | strip_html | truncatewords: 25 }}</p>
                 {% endif %}
             </li>
         {% endfor %}
@@ -95,6 +102,21 @@ permalink: /archive/
 .archive-link:hover {
     text-decoration: underline;
     color: #0056b3;
+}
+
+.archive-item-main {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.archive-excerpt {
+    margin: 0.5rem 0 0 140px;
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.6;
 }
 
 .archive-category {
