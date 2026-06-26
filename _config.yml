@@ -1,0 +1,59 @@
+title: LifeLeal - Postal Code & Regional Data Guide
+description: Comprehensive postal code systems, regional data analysis, and geographic distribution guides
+url: "https://yourusername.github.io/lifeleal"
+baseurl: "/lifeleal"
+repository: "yourusername/lifeleal"
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:title/
+
+# Pagination (if using jekyll-paginate)
+paginate: 10
+paginate_path: "/page:num/"
+
+# SEO
+author:
+  name: LifeLeal Team
+  email: info@lifeleal.com
+
+social:
+  name: LifeLeal
+  links:
+    - https://twitter.com/lifeleal
+    - https://github.com/yourusername/lifeleal
+
+# Google Analytics
+google_analytics: G-XXXXXXXXXX
+
+# Exclude files
+exclude:
+  - .git
+  - .gitignore
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
+# Include files
+include:
+  - .htaccess
+
+# Editor config
+lang: en

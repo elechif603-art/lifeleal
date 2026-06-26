@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">
+                {{ page.date | date: "%B %d, %Y" }}
+            </time>
+            {% if page.author %}
+                <span class="post-author">By {{ page.author }}</span>
+            {% else %}
+                <span class="post-author">By LifeLeal Team</span>
+            {% endif %}
+        </div>
+        {% if page.excerpt %}
+            <p class="post-excerpt">{{ page.excerpt }}</p>
+        {% endif %}
+    </header>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    <!-- In-article AdSense ad -->
+    <div class="ad-container" style="text-align: center; margin: 30px 0;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
+             data-ad-slot="xxxxxxxx"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+
+    <footer class="post-footer">
+        {% if page.tags %}
+            <div class="post-tags">
+                {% for tag in page.tags %}
+                    <a href="/lifeleal/tag/{{ tag }}" class="tag">#{{ tag }}</a>
+                {% endfor %}
+            </div>
+        {% endif %}
+        <div class="post-navigation">
+            {% if page.previous.url %}
+                <a href="{{ page.previous.url }}" class="prev-post">← Previous Post</a>
+            {% endif %}
+            {% if page.next.url %}
+                <a href="{{ page.next.url }}" class="next-post">Next Post →</a>
+            {% endif %}
+        </div>
+    </footer>
+</article>
+
+<section class="related-posts">
+    <h2>Related Posts</h2>
+    <div class="posts-grid">
+        {% for post in site.posts limit:3 %}
+            {% if post.url != page.url %}
+                <article class="post-card">
+                    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <time>{{ post.date | date: "%B %d, %Y" }}</time>
+                    <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+                    <a href="{{ post.url }}" class="read-more">Read More →</a>
+                </article>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
