@@ -35,6 +35,47 @@ body {
     padding: 0 20px;
 }
 
+.hero {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    color: white;
+    padding: 80px 0;
+    margin-bottom: 40px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+}
+
+.hero h1 {
+    margin: 0;
+    font-size: 3rem;
+    color: white;
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.hero p {
+    margin-top: 1rem;
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+.posts-list h2 {
+    color: var(--primary-color);
+}
+
+.archive-page h1 {
+    color: var(--primary-color);
+}
+
+.archive-link {
+    display: inline-block;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.archive-link:hover {
+    color: var(--secondary-color);
+}
+
 /* Header Styles */
 .site-header {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
@@ -54,6 +95,7 @@ body {
 .site-title h1 {
     font-size: 2.5em;
     margin: 0;
+    color: white;
 }
 
 .site-subtitle {
@@ -101,7 +143,7 @@ body {
 }
 
 .post-preview h2 a {
-    color: var(--text-color);
+    color: var(--text-color) !important;
     text-decoration: none;
 }
 
