@@ -16,6 +16,7 @@ layout: default
         {% for post in site.posts limit:10 %}
             <article class="post-preview">
                 <h2 class="post-title"><a href="{{ post.url | relative_url }}">{% if post.title %}{{ post.title }}{% else %}{{ post.url | split: '/' | last | replace: '.html', '' | replace: '-', ' ' | capitalize }}{% endif %}</a></h2>
+                <p class="post-subtitle">{% assign subtitle_text = post.subtitle | default: post.excerpt | default: post.content %}{{ subtitle_text | strip_html | truncatewords: 18 }}</p>
                 <div class="post-meta">
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                     {% if post.author %}
