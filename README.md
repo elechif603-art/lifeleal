@@ -30,7 +30,7 @@ This site is ready to be deployed on GitHub Pages:
 
 1. Push to your GitHub repository
 2. Enable GitHub Pages in repository settings
-3. Your site will be available at `https://yourusername.github.io/lifeleal`
+3. Your site will be available at `https://www.lifeleal.com.ng`
 
 ## Content
 

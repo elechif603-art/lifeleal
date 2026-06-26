@@ -1,7 +1,7 @@
 title: LifeLeal - Postal Code & Regional Data Guide
 description: Comprehensive postal code systems, regional data analysis, and geographic distribution guides
-url: "https://yourusername.github.io/lifeleal"
-baseurl: "/lifeleal"
+url: "https://www.lifeleal.com.ng"
+baseurl: ""
 repository: "yourusername/lifeleal"
 
 # Theme
@@ -38,8 +38,11 @@ social:
     - https://twitter.com/lifeleal
     - https://github.com/yourusername/lifeleal
 
+# Google Search Console verification
+google_site_verification: VcZ7vrtRcv6tbxbhwgYjrWMM-7vZXknKvylAPNCtNQw
+
 # Google Analytics
-google_analytics: G-XXXXXXXXXX
+google_analytics: G-4RD8KXEW2H
 
 # Exclude files
 exclude:

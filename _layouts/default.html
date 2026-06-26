@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ page.excerpt | default: site.description }}">
+    {% if site.google_site_verification %}
+        <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+    {% endif %}
     <title>{{ page.title | default: site.title }}</title>
     {% if site.baseurl %}
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -16,12 +19,12 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
         crossorigin="anonymous"></script>
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RD8KXEW2H"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
+      gtag('config', 'G-4RD8KXEW2H');
     </script>
 </head>
 <body>

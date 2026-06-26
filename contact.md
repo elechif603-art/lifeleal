@@ -12,8 +12,7 @@ permalink: /contact/
     <h2>Get in Touch</h2>
     
     <p><strong>Email:</strong> info@lifeleal.com</p>
-    <p><strong>Website:</strong> lifeleal.github.io</p>
-    
+    <p><strong>Website:</strong> https://www.lifeleal.com.ng</p>
     <h2>Contact Form</h2>
     
     <p>You can also submit inquiries through our contact form:</p>

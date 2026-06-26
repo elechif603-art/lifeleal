@@ -11,7 +11,7 @@ permalink: /privacy/
     
     <h2>Introduction</h2>
     
-    <p>LifeLeal ("we", "us", or "our") operates the lifeleal.github.io website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our service and the choices you have associated with that data.</p>
+    <p>LifeLeal ("we", "us", or "our") operates the https://www.lifeleal.com.ng website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our service and the choices you have associated with that data.</p>
     
     <h2>Information Collection and Use</h2>
     

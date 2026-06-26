@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/lifeleal/sitemap.xml
+Sitemap: https://www.lifeleal.com.ng/sitemap.xml
