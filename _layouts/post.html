@@ -63,10 +63,10 @@ layout: default
         {% for post in site.posts limit:3 %}
             {% if post.url != page.url %}
                 <article class="post-card">
-                    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                    <h3><a href="{{ post.url | relative_url }}">{% if post.title %}{{ post.title }}{% else %}{{ post.url | split: '/' | last | replace: '.html', '' | replace: '-', ' ' | capitalize }}{% endif %}</a></h3>
                     <time>{{ post.date | date: "%B %d, %Y" }}</time>
                     <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
-                    <a href="{{ post.url }}" class="read-more">Read More →</a>
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
                 </article>
             {% endif %}
         {% endfor %}

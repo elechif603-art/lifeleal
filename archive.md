@@ -27,7 +27,7 @@ permalink: /archive/
             <li class="archive-item">
                 <div class="archive-item-main">
                     <span class="archive-date">{{ post.date | date: "%B %d, %Y" }}</span>
-                    <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title }}</a>
+                    <a href="{{ post.url | relative_url }}" class="archive-link">{% if post.title %}{{ post.title }}{% else %}{{ post.url | split: '/' | last | replace: '.html', '' | replace: '-', ' ' | capitalize }}{% endif %}</a>
                     {% if post.categories %}
                         <span class="archive-category">
                             {% for category in post.categories limit:1 %}

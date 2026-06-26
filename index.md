@@ -15,7 +15,7 @@ layout: default
         
         {% for post in site.posts limit:10 %}
             <article class="post-preview">
-                <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | default: "Untitled Post" }}</a></h2>
+                <h2 class="post-title"><a href="{{ post.url | relative_url }}">{% if post.title %}{{ post.title }}{% else %}{{ post.url | split: '/' | last | replace: '.html', '' | replace: '-', ' ' | capitalize }}{% endif %}</a></h2>
                 <div class="post-meta">
                     <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                     {% if post.author %}
