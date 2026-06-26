@@ -8,17 +8,17 @@
             <div class="footer-section">
                 <h3>Quick Links</h3>
                 <ul>
-                    <li><a href="{{ site.baseurl | default: '/' }}">Home</a></li>
-                    <li><a href="{{ site.baseurl | default: '/' }}/about">About</a></li>
-                    <li><a href="{{ site.baseurl | default: '/' }}/contact">Contact</a></li>
-                    <li><a href="{{ site.baseurl | default: '/' }}/feed.xml">RSS Feed</a></li>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+                    <li><a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a></li>
                 </ul>
             </div>
             <div class="footer-section">
                 <h3>Legal</h3>
                 <ul>
-                    <li><a href="{{ site.baseurl | default: '/' }}/privacy">Privacy Policy</a></li>
-                    <li><a href="{{ site.baseurl | default: '/' }}/terms">Terms of Service</a></li>
+                    <li><a href="{{ '/privacy' | relative_url }}">Privacy Policy</a></li>
+                    <li><a href="{{ '/terms' | relative_url }}">Terms of Service</a></li>
                 </ul>
             </div>
         </div>

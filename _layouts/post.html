@@ -42,7 +42,7 @@ layout: default
         {% if page.tags %}
             <div class="post-tags">
                 {% for tag in page.tags %}
-                    <a href="/lifeleal/tag/{{ tag }}" class="tag">#{{ tag }}</a>
+                    <a href="{{ '/tag/' | append: tag | downcase | replace: ' ', '-' | append: '/' | relative_url }}" class="tag">#{{ tag }}</a>
                 {% endfor %}
             </div>
         {% endif %}
