@@ -24,19 +24,31 @@ layout: default
         {{ content }}
     </div>
 
-    <!-- In-article AdSense ad -->
-    <div class="ad-container" style="text-align: center; margin: 30px 0;">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
-             data-ad-slot="xxxxxxxx"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+        <!-- Display Ad (responsive) -->
+        <div class="ad-container" style="text-align: center; margin: 30px 0;">
+           <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-4528843822225790"
+               data-ad-slot="6799548885"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
+           <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+        </div>
+
+        <!-- In-article Fluid Ad -->
+        <div class="ad-container" style="text-align:center; margin: 30px 0;">
+           <ins class="adsbygoogle"
+               style="display:block; text-align:center;"
+               data-ad-layout="in-article"
+               data-ad-format="fluid"
+               data-ad-client="ca-pub-4528843822225790"
+               data-ad-slot="5486467213"></ins>
+           <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+           </script>
+        </div>
 
     <footer class="post-footer">
         {% if page.tags %}
@@ -72,3 +84,16 @@ layout: default
         {% endfor %}
     </div>
 </section>
+
+<!-- Display2 Ad (below related posts) -->
+<div class="ad-container" style="text-align:center; margin: 30px 0;">
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-4528843822225790"
+        data-ad-slot="3834579390"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>

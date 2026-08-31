@@ -7,7 +7,7 @@ permalink: /terms/
 <div class="page-content">
     <h1>Terms of Service</h1>
     
-    <p>Last Updated: June 2026</p>
+    <p>Last Updated: August 31, 2026</p>
     
     <h2>1. Agreement to Terms</h2>
     
@@ -49,7 +49,32 @@ permalink: /terms/
     
     <p>These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction where LifeLeal operates, and you irrevocably submit to the exclusive jurisdiction of the courts in that location.</p>
     
-    <h2>9. Contact Us</h2>
-    
-    <p>If you have any questions about these Terms of Service, please contact us at info@lifeleal.com</p>
+</p>
+    <h2>9. Copyright and DMCA</h2>
+
+    <p>All content on this site (text, images, layout) is the property of LifeLeal or used with permission. If you believe that your copyrighted work has been used on this site in a way that constitutes copyright infringement, please contact us at <strong>info@lifeleal.com</strong> with the following information:</p>
+    <ul>
+        <li>A physical or electronic signature of the copyright owner (or authorized agent).</li>
+        <li>Identification of the copyrighted work claimed to have been infringed.</li>
+        <li>Identification of the material that is claimed to be infringing and where it is located on the site (URL).</li>
+        <li>Contact information for the complaining party (address, telephone number, email address).</li>
+        <li>A statement that you have a good faith belief that use of the material is not authorized by the copyright owner.</li>
+    </ul>
+
+    <p>You may also submit a notice through Google's copyright removal process where applicable: https://support.google.com/legal/troubleshooter/1114905</p>
+
+    <h2>10. User-Generated Content and Conduct</h2>
+
+    <p>When you post content to the Site (comments, messages), you grant LifeLeal a non-exclusive, worldwide, royalty-free license to use that content. You are responsible for ensuring that your submissions do not violate any laws or third-party rights.</p>
+
+    <p>Prohibited content includes, but is not limited to: content that infringes intellectual property, is illegal, pornographic, promotes hate, or otherwise violates Google Publisher Policies. We reserve the right to remove or disable access to any user content that violates these Terms.</p>
+
+    <h2>11. Termination</h2>
+
+    <p>We may suspend or terminate access to the Site at any time for conduct that we believe violates these Terms or is harmful to other users or us.</p>
+
+    <h2>12. Contact Us</h2>
+
+    <p>If you have any questions about these Terms of Service or need to report copyright or policy issues, please contact us at <strong>info@lifeleal.com</strong></p>
+</div>
 </div>
