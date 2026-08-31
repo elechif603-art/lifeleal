@@ -62,3 +62,14 @@ Portugal, as a member of the European Union, integrates its postal code system w
 ## Conclusion
 
 Portugal's ####-### código postal postal code system represents an efficient approach to geographic identification and mail delivery across a Western European nation with island territories. The system accommodates Portugal's diverse geography from continental mainland to Atlantic islands. Understanding the Portuguese postal code system provides insight into how a Western European economy manages geographic information and coordinates postal services supporting digital commerce across continental and island territories.
+
+## Editorial Note
+
+CTT (Correios de Portugal) is the official operator; for authoritative postcode lookup and address guidance use the CTT postcode finder and support pages. Some CTT pages offer language options; prefer the Portuguese canonical pages and sitemap for official references.
+
+## Sources & Further Reading
+
+- CTT Correios de Portugal — https://www.ctt.pt/
+- CTT postcode finder and official CTT resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

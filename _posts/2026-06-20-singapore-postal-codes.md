@@ -121,3 +121,14 @@ Singapore's postal code system is part of the broader infrastructure that makes 
 ## Conclusion
 
 Singapore's six-digit postal code system represents a sophisticated approach to geographic identification and mail delivery in a highly developed city-state. The system provides remarkable granularity accommodating extreme population density and high mail volumes. Understanding the Singapore postal code system provides insight into how a densely populated, technologically advanced city-state manages geographic information and maintains one of the world's most efficient postal and logistics systems supporting international commerce and trade in a geographic area of just 728 square kilometers.
+
+## Editorial Note
+
+Singapore's six-digit codes are precise and often map to single buildings; use Singapore Post's official lookup for address verification in high-density areas. For international shippers, include building/unit numbers and postal codes to prevent misdelivery — the postal code alone may correspond to multiple units within a tower without a unit number.
+
+## Sources & Further Reading
+
+- Singapore Post — https://www.singpost.com/
+- Singapore Post postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

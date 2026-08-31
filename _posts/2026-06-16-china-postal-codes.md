@@ -117,3 +117,16 @@ This variation reflects practical realities of population distribution and geogr
 ## Conclusion
 
 China's six-digit postal code system represents a comprehensive approach to geographic identification and mail delivery across the world's most populous nation. The hierarchical six-digit structure provides geographic organization from regional level down to local delivery areas. The system has been modernized and adapted to support explosive growth in e-commerce and digital commerce. Understanding the Chinese postal code system provides insight into how a continental nation with 1.4 billion people manages geographic information and coordinates postal services supporting the world's largest and fastest-growing e-commerce market.
+
+## Editorial Note
+
+China's postal codes are critical for high-volume e-commerce logistics. Integrate China Post's official lookup and be aware that many Chinese addresses include province and city names in local scripts — ensure your address forms accept local-language input or reliable transliteration to avoid misrouting. Major metros have highly granular codes useful for precise routing.
+
+## Sources & Further Reading
+
+- China Post — http://www.chinapost.com.cn/
+- China Post postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

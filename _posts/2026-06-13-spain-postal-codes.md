@@ -131,3 +131,14 @@ Compared to other European postal code systems, the Spanish código postal is st
 ## Conclusion
 
 Spain's código postal postal code system represents a well-organized approach to geographic identification and mail delivery across one of Europe's major nations. The five-digit structure organized by province provides clear geographic information while integrating with Spain's complex administrative structure including autonomous communities. Understanding the Spanish postal code system provides insight into how a major European nation manages geographic information across diverse regions from Mediterranean to Atlantic coasts, and from mainland territories to distant island communities.
+
+## Editorial Note
+
+This article summarizes Spain's postal code design and administrative practice; local variation matters. For example, Madrid's central postal districts (28001–28020) handle substantial volume from government, business, and tourism; rural provinces such as Teruel or Soria have codes covering broader areas with different delivery logistics. When using postal codes for verification or address validation, combine the código postal with municipality and street data to reduce false positives. For businesses processing Spanish addresses, consider using Correos' official lookup to verify both the postal code and the corresponding municipality — this reduces parcel misrouting and improves delivery success rates.
+
+## Sources & Further Reading
+
+- Correos (Spanish postal service) — https://www.correos.es/
+- Correos postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

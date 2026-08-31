@@ -120,3 +120,14 @@ The integration of technology into postal operations has enhanced the system's e
 ## Conclusion
 
 Italy's CAP postal code system represents a well-established and effective approach to geographic identification and mail delivery across one of Europe's major nations. The five-digit numeric structure organized hierarchically provides sufficient precision for both postal operations and broader business and administrative uses. Understanding the Italian CAP system provides insight into how a major Mediterranean nation manages geographic information and coordinates postal services efficiently across diverse terrain from Alpine regions to Mediterranean islands.
+
+## Editorial Note
+
+Practical use of CAP codes requires pairing them with province identifiers for high accuracy. For instance, central Rome addresses (001xx) and metropolitan Milan (201xx) have dense, well-defined CAP ranges; small mountain towns often share broader ranges that require additional street-level verification. Businesses doing address validation or e-commerce shipping should integrate Poste Italiane's official lookup to map CAP codes to municipalities and street ranges; this reduces invalid-address returns during checkout and improves last-mile delivery accuracy.
+
+## Sources & Further Reading
+
+- Poste Italiane — https://www.poste.it/
+- Poste Italiane postal code lookup and official CAP resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

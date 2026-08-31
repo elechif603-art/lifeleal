@@ -59,3 +59,16 @@ Nigeria's postal code system is important for regional operations within West Af
 ## Conclusion
 
 Nigeria's six-digit postal code system represents an evolving approach to geographic identification and mail delivery across Africa's largest economy and most populous nation. The system accommodates Nigeria's vast territory and concentrated urban centers. Understanding the Nigerian postal code system provides insight into how a major African economy manages geographic information and coordinates postal services supporting explosive growth in digital commerce and serving as a gateway to broader African markets.
+
+## Editorial Note
+
+NIPOST provides official postcode lookup and addressing guidance. Given Nigeria's rapid urban growth and large informal settlements, combine postcode validation with local area names and delivery instructions to reduce misdelivery in dense urban neighborhoods.
+
+## Sources & Further Reading
+
+- Nigerian Postal Service (NIPOST) — https://www.nipost.gov.ng/
+- Official NIPOST postal code lookup and resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

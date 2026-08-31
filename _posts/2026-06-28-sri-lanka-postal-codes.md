@@ -90,3 +90,16 @@ Compared to postal code systems in neighboring South Asian countries, the Sri La
 ## Conclusion
 
 Sri Lanka's postal code system represents a functional approach to geographic identification and mail delivery across an island nation. The system accommodates Sri Lanka's geography and administrative structure while providing integrated postal service across the entire country. Understanding the Sri Lankan postal code system provides insight into how an island economy manages geographic information and coordinates postal services supporting commerce and digital operations.
+
+## Editorial Note
+
+Sri Lankan addresses benefit from including district and local area names along with postal codes. Integrate Sri Lanka Post's lookup for validation and apply manual confirmation for remote hill-country deliveries where local naming conventions can vary.
+
+## Sources & Further Reading
+
+- Sri Lanka Post — http://www.slpost.gov.lk/
+- Sri Lanka Post postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

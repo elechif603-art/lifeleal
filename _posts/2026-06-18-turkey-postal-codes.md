@@ -107,3 +107,14 @@ Compared to postal code systems in neighboring countries, the Turkish system is 
 ## Conclusion
 
 Turkey's five-digit posta kodu postal code system represents a functional approach to geographic identification and mail delivery across a country spanning two continents. The system accommodates Turkey's diverse geography from Aegean coasts to Anatolian plateaus to eastern mountains. Understanding the Turkish postal code system provides insight into how a transcontinental nation manages geographic information and coordinates postal services supporting growing e-commerce and logistics operations across its transcontinental territory.
+
+## Editorial Note
+
+Turkey's postal codes are province-focused but can span urban districts; for reliable shipping, verify district and street names alongside the posta kodu. Integrate PTT's official lookup where possible and treat Istanbul's European and Asian-side codes distinctly when routing. For international shippers, include province names to reduce ambiguity.
+
+## Sources & Further Reading
+
+- PTT (Turkish Post) — https://www.ptt.gov.tr/
+- PTT postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

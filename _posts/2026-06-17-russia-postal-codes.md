@@ -112,3 +112,19 @@ The Russian postal code system has evolved significantly since the dissolution o
 ## Conclusion
 
 Russia's six-digit postal code system represents a remarkable achievement in organizing mail delivery across the world's largest country. The system provides geographic organization accommodating everything from the extreme density of Moscow and St. Petersburg to the vast empty expanses of Siberia and the Far East. Understanding the Russian postal code system provides insight into how a continental nation spanning eleven time zones manages geographic information and maintains postal service across extraordinarily challenging geography and distances. The system demonstrates how postal infrastructure can accommodate both extreme urbanization and vast sparsely populated regions within a single coherent system.
+
+## Editorial Note
+
+Russia's enormous geographic scale means postal codes vary in granularity; urban centers like Moscow and St. Petersburg have very granular codes, while Siberian regions cover vast territories. For logistics and address validation, integrate Russian Post's official lookup and be mindful of transliteration differences between Cyrillic and Latin address data when handling international shipments.
+
+## Sources & Further Reading
+
+- Russian Post (Почта России) — https://www.pochta.ru/
+- Russian Post postal code lookup and official resources
+
+- Russian Post (Почта России) — https://www.pochta.ru/ (official site; automated fetch returned an error during validation)
+- Russian Post postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

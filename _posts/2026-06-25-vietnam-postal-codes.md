@@ -103,3 +103,16 @@ Compared to postal code systems in neighboring Southeast Asian countries, the Vi
 ## Conclusion
 
 Vietnam's six-digit postal code system represents a functional approach to geographic identification and mail delivery across a major Southeast Asian nation. The system accommodates Vietnam's geographic and administrative complexity while providing integrated postal service across the entire nation. Understanding the Vietnamese postal code system provides insight into how a rapidly developing nation manages geographic information and coordinates postal services supporting explosive growth in logistics and e-commerce operations across a nation in rapid economic transformation.
+
+## Editorial Note
+
+Vietnam's postal codes are useful for e-commerce logistics, but always confirm province and district names when validating addresses to avoid similar locality names across provinces. Integrating Vietnam Post's official lookup reduces delivery errors; consider supplementing with phone or GPS confirmation for rural deliveries in mountainous provinces.
+
+## Sources & Further Reading
+
+- Vietnam Post — https://www.vnpost.vn/
+- Vietnam Post postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

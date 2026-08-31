@@ -99,3 +99,14 @@ Compared to postal code systems in other European countries, the Greek system pr
 ## Conclusion
 
 Greece's postal code system represents a functional approach to geographic identification and mail delivery across a Mediterranean nation spanning mainland and thousands of islands. The system accommodates Greece's geographic and administrative complexity while providing integrated postal service across the entire country. Understanding the Greek postal code system provides insight into how a Mediterranean nation manages geographic information and coordinates postal services across challenging geography including numerous island communities supporting commerce and digital operations.
+
+## Editorial Note
+
+Greek postal codes are useful for routing to islands and mainland; always confirm island names and municipality when shipping to tourist destinations. ELTA's official lookup reduces misrouting, and carriers often have separate handling rules for island deliveries — disclose realistic delivery times for island shipments.
+
+## Sources & Further Reading
+
+- Hellenic Post (ELTA) — https://www.elta.gr/
+- ELTA postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

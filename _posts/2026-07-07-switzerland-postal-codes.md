@@ -83,3 +83,14 @@ Switzerland's major role as a global financial center makes its postal code syst
 ## Conclusion
 
 Switzerland's four-digit Postleitzahl postal code system represents an efficient approach to geographic identification and mail delivery across a small but politically complex multilingual nation. The system accommodates Switzerland's 26 cantons, three primary language regions, and mountainous terrain. Understanding the Swiss postal code system provides insight into how a small developed nation with political autonomy for regional authorities maintains a unified postal system supporting international financial operations and digital commerce.
+
+## Editorial Note
+
+Swiss Post (Die Schweizerische Post) publishes official postcode lookup and address validation APIs; integrate those services for high-quality address validation. In Switzerland, include canton information alongside the postcode to reduce ambiguity, particularly for small localities with similar names.
+
+## Sources & Further Reading
+
+- Swiss Post — https://www.post.ch/
+- Swiss Post address and postcode resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

@@ -91,3 +91,14 @@ Malaysia's postal code system is important for regional operations within Southe
 ## Conclusion
 
 Malaysia's five-digit postal code system represents a functional approach to geographic identification and mail delivery across a nation spanning two regions separated by sea. The system accommodates Peninsular Malaysia and East Malaysian territories while providing integrated postal service across the entire nation. Understanding the Malaysian postal code system provides insight into how a major Southeast Asian economy manages geographic information across diverse territories supporting growing e-commerce and digital commerce operations.
+
+## Editorial Note
+
+Malaysian postcodes cover both Peninsular and East Malaysia; verify state and district names alongside postcodes to avoid cross-territory ambiguity. Pos Malaysia offers official lookup services — integrate those for address validation. For logistics, treat East Malaysia deliveries separately due to different shipping channels and occasionally longer transit times.
+
+## Sources & Further Reading
+
+- Pos Malaysia — https://www.pos.com.my/
+- Pos Malaysia postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

@@ -62,3 +62,19 @@ Israel's postal code system is important for regional operations within the Midd
 ## Conclusion
 
 Israel's five-digit Mikud postal code system represents a functional approach to geographic identification and mail delivery across a Middle Eastern nation. The system accommodates Israel's geographic and administrative complexity while providing integrated postal service. Understanding the Israeli postal code system provides insight into how a technologically advanced Middle Eastern economy manages geographic information and coordinates postal services supporting modern digital commerce and logistics.
+
+## Editorial Note
+
+Israel Post (Israel Postal Company) maintains the definitive postcode lookup and addressing guidance for Israel. When referencing postcodes, prefer Israel Post's official pages or their public lookup tools.
+
+## Sources & Further Reading
+
+- Israel Postal Company (Israel Post) — https://www.israelpost.co.il/
+- Israel Post postcode lookup and address resources
+
+- Israel Postal Company (Israel Post) — https://www.israelpost.co.il/ (official site; may block automated access)
+- Israel Post postcode lookup and address resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

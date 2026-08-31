@@ -108,3 +108,19 @@ The Canada Post postal code database is regularly updated as new addresses are c
 ## Conclusion
 
 The Canadian postal code system represents a sophisticated approach to geographic identification and mail delivery. The alphanumeric format provides much greater precision than numeric-only systems, making it particularly valuable for both postal services and businesses. Understanding how Canadian postal codes work provides insight into how modern postal systems balance geographic precision with operational efficiency, creating systems that serve not just postal services, but entire economies dependent on accurate geographic identification and address data.
+
+## Editorial Note
+
+Canada's alphanumeric postal codes allow very precise location mapping, often down to a single building in urban areas. For address validation and analytics, integrate Canada Post's Data Products or APIs to map FSAs and LDUs to municipalities and delivery points. Businesses using postal data for marketing or service coverage should be cautious: FSAs can span socio-demographic boundaries, so always combine postal-code analysis with other geographic indicators.
+
+## Sources & Further Reading
+
+- Canada Post — https://www.canadapost-postescanada.ca/
+- Canada Post postal code lookup and AddressComplete APIs
+
+- Canada Post — https://www.canadapost.ca/cpc/en/home.page (official site and postal code lookup)
+- Canada Post postal code lookup and AddressComplete APIs
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

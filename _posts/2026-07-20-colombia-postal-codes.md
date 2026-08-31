@@ -66,3 +66,16 @@ Colombia's postal code system is important for regional operations within South 
 ## Conclusion
 
 Colombia's six-digit postal code system represents a functional approach to geographic identification and mail delivery across a major South American nation. The system accommodates Colombia's mountainous geography and distributed population centers. Understanding the Colombian postal code system provides insight into how a developing South American economy manages geographic information and coordinates postal services supporting rapid growth in digital commerce and serving as an important regional economic hub.
+
+## Editorial Note
+
+Servicios Postales Nacionales (4-72) and national address authorities provide official postcode lookups and address guidance. For Colombia, verify administrative divisions (departamentos and municipios) alongside the postcode for accurate delivery, especially in rural areas and informal settlements.
+
+## Sources & Further Reading
+
+- 4-72 (Colombian Postal Service) — https://www.4-72.com.co/
+- Colombia postal code information — official 4-72 resources, postcode viewer and government publications
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

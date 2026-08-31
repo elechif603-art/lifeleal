@@ -113,3 +113,14 @@ The postal service faces ongoing challenges in remote areas where population is 
 ## Conclusion
 
 The Brazilian CEP postal code system represents a comprehensive approach to organizing mail delivery across one of the world's largest nations. The eight-character format organized hierarchically from region down to local delivery area provides the infrastructure necessary for postal delivery across Brazil's 210 million inhabitants distributed across vast and varied terrain. Understanding the CEP system provides insight into how a major Latin American nation manages geographic information and coordinates postal services across an enormous and diverse territory.
+
+## Editorial Note
+
+Brazil's CEP provides high precision in cities like São Paulo and Rio de Janeiro where CEPs can map to few blocks; in contrast, Amazon-region codes cover very large areas. For address validation and logistics, integrate Correios' official CEP datasets to map codes to neighborhoods and streets. This helps e-commerce platforms reduce delivery failures and supports better routing decisions for couriers operating in complex urban and remote environments.
+
+## Sources & Further Reading
+
+- Correios (Brazil) — https://www.correios.com.br/
+- Correios postal code lookup and official CEP resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

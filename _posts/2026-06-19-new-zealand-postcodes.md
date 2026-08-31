@@ -127,3 +127,14 @@ Compared to postal code systems in other Pacific nations, the New Zealand system
 ## Conclusion
 
 New Zealand's four-digit postcode system represents an efficient approach to geographic identification and mail delivery across an isolated island nation in the South Pacific. The simple format accommodates New Zealand's relatively small population dispersed across two islands. Understanding the New Zealand postcode system provides insight into how an isolated developed nation manages geographic information and maintains postal service across challenging geography with scattered population centers.
+
+## Editorial Note
+
+New Zealand postcodes are reliable for routing but verify suburb names in metropolitan Auckland where postcode boundaries can be non-intuitive. New Zealand Post provides official postcode lookup tools — integrate them for checkout address validation. For remote deliveries, confirm carrier serviceability, as some island or rural routes have special handling requirements.
+
+## Sources & Further Reading
+
+- New Zealand Post — https://www.nzpost.co.nz/
+- NZ Post postcode lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

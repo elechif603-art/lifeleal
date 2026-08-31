@@ -121,3 +121,19 @@ Compared to postal code systems in neighboring Southeast Asian countries, the In
 ## Conclusion
 
 Indonesia's five-digit kode pos postal code system represents a remarkable achievement in geographic identification and mail delivery across the world's largest archipelago nation. The system accommodates thousands of islands, diverse populations, and complex geography while providing integrated postal service across the entire nation. Understanding the Indonesian postal code system provides insight into how a geographically dispersed developing nation manages the extraordinary challenges of archipelago postal delivery while supporting rapidly growing e-commerce and digital commerce operations across diverse island communities.
+
+## Editorial Note
+
+Indonesia's archipelago geography means postal codes vary greatly in granularity; Jakarta and major cities have very granular codes, while remote islands cover broader areas. For logistics, integrate PT Pos Indonesia's lookup and apply special routing rules for inter-island shipments. E-commerce operators should add confirmation steps for addresses in remote provinces to avoid failed deliveries.
+
+## Sources & Further Reading
+
+- PT Pos Indonesia — https://www.posindonesia.co.id/
+- Pos Indonesia postal code lookup and official resources
+
+- PT Pos Indonesia — https://www.posindonesia.co.id/ (official site; may block automated access)
+- Pos Indonesia postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

@@ -67,3 +67,16 @@ Saudi Arabia's postal code system is important for regional operations within th
 ## Conclusion
 
 Saudi Arabia's five-digit postal code system represents a functional approach to geographic identification and mail delivery across the Arabian Peninsula's largest nation. The system accommodates Saudi Arabia's vast geographic territory and concentrated urban centers. Understanding the Saudi postal code system provides insight into how a major Middle Eastern economy manages geographic information and coordinates postal services while undergoing significant economic transformation and diversification.
+
+## Editorial Note
+
+Saudi Post provides official postcode lookup and addressing APIs. For logistics in rapidly growing urban regions, combine postcode checks with district and building identifiers to ensure accurate delivery within urban complexes and new developments.
+
+## Sources & Further Reading
+
+- Saudi Post (Saudi Post Corporation) — https://www.splonline.com.sa/ (official site; pages may redirect or block automated access)
+- Saudi Post postal code resources and official lookup (English pages may vary; use the site language selector)
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

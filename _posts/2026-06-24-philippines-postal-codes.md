@@ -106,3 +106,16 @@ Compared to postal code systems in neighboring Southeast Asian countries, the Ph
 ## Conclusion
 
 The Philippines' four-digit postal code system represents a functional approach to geographic identification and mail delivery across a nation comprising thousands of islands. The system accommodates the Philippines' geographic complexity and dispersed population while providing integrated postal service across the entire nation. Understanding the Philippine postal code system provides insight into how an island nation manages geographic information and coordinates postal services supporting growing logistics and e-commerce operations across diverse island communities.
+
+## Editorial Note
+
+Philippine postal codes must be used with municipality and province names to avoid ambiguity across islands. For last-mile reliability, integrate the Philippine Postal Corporation's lookup and validate barangay or neighborhood names where available. Island deliveries often require carrier-specific routing rules—confirm serviceability for remote islands before promising delivery times.
+
+## Sources & Further Reading
+
+- Philippine Postal Corporation — https://www.phlpost.gov.ph/
+- PHLPost postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
+ 
+- Universal Postal Union (UPU) — https://www.upu.int/en/Universal-Postal-Union/About-UPU/Member-Countries (fallback authoritative directory)

@@ -110,3 +110,14 @@ Compared to postal code systems in other Latin American countries, Mexico's syst
 ## Conclusion
 
 The Mexican postal code system represents a straightforward and effective approach to organizing mail delivery across one of the world's most populous nations. The five-digit structure organized hierarchically from state level down to local delivery areas provides the infrastructure necessary for postal delivery across Mexico's 128 million inhabitants. Understanding the postal code system provides insight into how a major Latin American nation manages geographic information and coordinates postal services across an enormous and diverse territory.
+
+## Editorial Note
+
+Mexico's big cities (Mexico City, Guadalajara, Monterrey) use dense CP ranges that are essential for last-mile delivery — always cross-check colonia (neighborhood) names when validating addresses to avoid mismatch. Correos de México provides official lookup tools and published tables; integrating those into checkout flows reduces returned parcels. For businesses shipping to rural or mountainous areas, consider confirming delivery availability with the carrier and using GPS coordinates where possible.
+
+## Sources & Further Reading
+
+- Correos de México — https://www.correosdemexico.gob.mx/
+- Correos de México postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.

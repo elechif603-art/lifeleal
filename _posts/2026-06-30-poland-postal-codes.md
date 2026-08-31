@@ -104,3 +104,14 @@ Since joining the European Union in 2004, Poland's postal code system has been i
 ## Conclusion
 
 Poland's kod pocztowy postal code system represents a functional approach to geographic identification and mail delivery across a major Central European nation. The XX-XXX format provides clear geographic hierarchy from regional to local levels. Understanding the Polish postal code system provides insight into how a major Central European economy manages geographic information and coordinates postal services supporting growing e-commerce and logistics operations across a nation that has experienced extraordinary economic transformation and growth.
+
+## Editorial Note
+
+Poczta Polska offers official postcode lookup services; integrate them for address validation. Be aware that some codes are highly localized in urban centers and broader in rural areas — combine postcode checks with city/suburb names for best results in routing and analytics.
+
+## Sources & Further Reading
+
+- Poczta Polska — https://www.poczta-polska.pl/
+- Poczta Polska postal code lookup and official resources
+
+Last checked: August 31, 2026. If you find inaccuracies, please contact info@lifeleal.com.
